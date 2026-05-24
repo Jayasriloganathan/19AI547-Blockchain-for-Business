@@ -96,12 +96,17 @@ contract PasswordlessAuthDemo {
 # Expected Output:
 Users can register without a password.
 
+<img width="1064" height="921" alt="image" src="https://github.com/user-attachments/assets/5b44b384-13c7-4308-8d1e-4b928b9cd8b5" />
+
 
 Users sign a challenge with their private key for authentication.
+
+<img width="1058" height="919" alt="image" src="https://github.com/user-attachments/assets/9eb61d2d-b223-4df8-bf48-2f5bdb363872" />
 
 
 The smart contract verifies signatures to confirm identity.
 
+<img width="1048" height="912" alt="image" src="https://github.com/user-attachments/assets/30fc594f-a4b2-497c-8869-331c6e68590e" />
 
 
 # High-Level Overview:
@@ -114,3 +119,6 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+
+Thus, secure passwordless authentication system using public-private key cryptography on Ethereum has been successfully executed.
+
